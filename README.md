@@ -13,3 +13,9 @@ si ma noi cosa vogliamo fare?
 torniamo a scrivere in italiano
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento!
+
+esercizio 1: mail
+
+creo una lista email (array)
+creo una variabile che controlla gli elementi nella lista 'mail'
+creo una variabile che chiede all'utente di inserire l'elemento da verificarfe
