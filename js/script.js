@@ -22,3 +22,13 @@ for(let i=0; i<email.length; i++){
 }
 
 console.log(verifyEmail)
+
+
+
+//esercizio 2: Dadi
+
+let numeroUtente = Math.floor(Math.random() * 6) + 1;
+let numeroPc = Math.floor(Math.random() * 6) + 1;
+
+console.log(numeroUtente)
+console.log(numeroPc)
