@@ -32,3 +32,15 @@ let numeroPc = Math.floor(Math.random() * 6) + 1;
 
 console.log(numeroUtente)
 console.log(numeroPc)
+
+if(numeroUtente > numeroPc){
+    console.log(`hai vinto`)
+}
+
+else if(numeroUtente < numeroPc){
+    console.log(`hai perso`)
+}
+
+else{
+    console.log(`pari`)
+}

@@ -33,3 +33,4 @@ esercizio 2: Dadi
 genero un numero random tra 1 e 6 per utente
 genero un numero random tra 1 e 6 per pc
 
+confronto i numeri generati e verifico se il numero utente è maggiore, minore o uguale al numero pc e stampo l'esito
