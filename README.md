@@ -14,8 +14,12 @@ torniamo a scrivere in italiano
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento!
 
-esercizio 1: mail
+esercizio 1: Email
 
 creo una lista email (array)
 creo una variabile che controlla gli elementi nella lista 'mail'
-creo una variabile che chiede all'utente di inserire l'elemento da verificarfe
+creo una variabile che chiede all'utente di inserire l'elemento da verificare
+
+genero un ciclo di controllo dei singoli elementi della lista
+
+verifico la condizione che l'elemento presente nella lista è uguale all' elelemento inserito dall'utente e stampo l'esito

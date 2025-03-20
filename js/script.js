@@ -1,3 +1,5 @@
+//esercizio 1: Email
+
 const email = [   
 'Giovanni74@mail.com',
 'Silvia98@mail.com',
@@ -6,6 +8,17 @@ const email = [
 'Luca90@mail.com'
 ]
 
-let verifyEmail
+let verifyEmail = `Email non trovata`
 
 let userEmail = prompt(`Inserisci l'email di verifica`)
+
+for(let i=0; i<email.length; i++){
+    
+    if(email[i] === userEmail){
+
+       verifyEmail = `Email trovata`
+    }
+
+}
+
+console.log(verifyEmail)
